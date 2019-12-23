@@ -1,3 +1,7 @@
+### v0.6.1 - Decvember 23, 2019
+Fixed (ticket in original repo)[https://github.com/nlopes/slack/issues/630]
+
+
 ### v0.6.0 - August 31, 2019
 full differences can be viewed using `git log --oneline --decorate --color v0.5.0..v0.6.0`
 thanks to everyone who has contributed since January!
